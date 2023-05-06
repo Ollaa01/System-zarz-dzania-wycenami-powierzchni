@@ -1,0 +1,3 @@
+Rolna  Gotowosc wyceny: NIE Adres: Olkusz Krola Kazimierza 51/6 Powierzchnia w metrach kwadratowych: 10 Stan gruntu: dobry Uzbrojenie: czesciowe 
+Budowlana Gotowosc wyceny: TAK Adres: Olkusz Kupna 90 Powierzchnia w metrach kwadratowych: 65 Stan gruntu: zly Uzbrojenie: czesciowe 
+Lokal Gotowosc wyceny: TAK Adres: Katowice Niebieska 15A Powierzchnia w metrach kwadratowych: 90 Stan techniczny: bardzo dobry Kondygnacja:  9 

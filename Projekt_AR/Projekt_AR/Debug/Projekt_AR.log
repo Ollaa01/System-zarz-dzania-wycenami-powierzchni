@@ -1,0 +1,12 @@
+﻿  Bazowa.cpp
+  Budowlane.cpp
+  Grunty.cpp
+  Lokale.cpp
+  Mieszkalne.cpp
+  Procedury.cpp
+E:\studia\sem4\PK4\Projekt_AR\Projekt_AR\Projekt_AR\Procedury.cpp(10,20): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+E:\studia\sem4\PK4\Projekt_AR\Projekt_AR\Projekt_AR\Procedury.cpp(316,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Projekt_AR.cpp
+  Rolne.cpp
+  Generowanie kodu...
+  Projekt_AR.vcxproj -> E:\studia\sem4\PK4\Projekt_AR\Projekt_AR\Debug\Projekt_AR.exe
